@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Crunchy Butterscotch",
+        "ingredientes": "Butterscotch & Cashews",
+        "precio": "BS 18"
+    },
+    {
+        "nombre": "Supermans Secret",
+        "ingredientes": "Peanut Butter , Dry fruit , With Vanilla Ice Cream",
+        "precio": "BS 21"
+    },
+    {
+        "nombre": "Wonder Woman Shake",
+        "ingredientes": "Saffron , With Vanilla Ice Cream",
+        "precio": "BS 19"
+    }
+]
